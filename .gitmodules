@@ -5,6 +5,3 @@
 [submodule "blrm"]
 	path = blrm
 	url = https://github.com/cran/blrm
-[submodule "maximin"]
-	path = maximin
-	url = https://github.com/cran/maximin
